@@ -1,8 +1,14 @@
 # Evaluation Python Groupe n°1
 
+## Réalisé par
+
+- P. Medhi
+- V. Mathieu
+- C. Vincenzo
+
 ## Config
 
-Installer les dépendances :
+### Installer les dépendances
 
 ```bash
 
@@ -10,17 +16,22 @@ pip install -r requirements.txt
 
 ```
 
-### Trois chaînes qui ont diffusé le plus d'épisodes :
-    Netflix: 471 épisodes
-    TF1: 158 épisodes
-    Disney+: 118 épisodes
+## Réponses aux questions
 
-### Trois pays qui ont diffusé le plus d'épisodes :
-    Etats-Unis: 1439 épisodes
-    France: 423 épisodes
-    Canada: 288 épisodes
+### Trois chaînes qui ont diffusé le plus d'épisodes
 
-### Mots les plus fréquents dans les noms des séries :
+- Netflix: 471 épisodes
+- TF1: 158 épisodes
+- Disney+: 118 épisodes
+
+### Trois pays qui ont diffusé le plus d'épisodes
+
+- Etats-Unis: 1439 épisodes
+- France: 423 épisodes
+- Canada: 288 épisodes
+
+### Mots les plus fréquents dans les noms des séries
+
 - 'the': 23 occurrences
 - 'of': 7 occurrences
 - 'de': 3 occurrences
@@ -36,264 +47,3 @@ pip install -r requirements.txt
 - '(2022)': 2 occurrences
 - 'soko': 2 occurrences
 - 'à': 2 occurrences
-
-Trois chaînes qui ont diffusé le plus d'épisodes :
-Netflix: 471 épisodes
-TF1: 158 épisodes
-Disney+: 118 épisodes
-Trois chaînes qui ont diffusé le plus d'épisodes :
-Etats-Unis: 1439 épisodes
-France: 423 épisodes
-Canada: 288 épisodes
-Trois chaînes qui ont diffusé le plus d'épisodes :
-Netflix: 471 épisodes
-TF1: 158 épisodes
-Disney+: 118 épisodes
-Trois chaînes qui ont diffusé le plus d'épisodes :
-Etats-Unis: 1439 épisodes
-France: 423 épisodes
-Canada: 288 épisodes
-Trois chaînes qui ont diffusé le plus d'épisodes :
-Netflix: 471 épisodes
-TF1: 158 épisodes
-Disney+: 118 épisodes
-Trois chaînes qui ont diffusé le plus d'épisodes :
-Etats-Unis: 1439 épisodes
-France: 423 épisodes
-Canada: 288 épisodes
-Trois chaînes qui ont diffusé le plus d'épisodes :
-Netflix: 471 épisodes
-TF1: 158 épisodes
-Disney+: 118 épisodes
-Trois chaînes qui ont diffusé le plus d'épisodes :
-Etats-Unis: 1439 épisodes
-France: 423 épisodes
-Canada: 288 épisodes
-Trois chaînes qui ont diffusé le plus d'épisodes :
-Netflix: 471 épisodes
-TF1: 158 épisodes
-Disney+: 118 épisodes
-Trois chaînes qui ont diffusé le plus d'épisodes :
-Etats-Unis: 1439 épisodes
-France: 423 épisodes
-Canada: 288 épisodes
-Trois chaînes qui ont diffusé le plus d'épisodes :
-Netflix: 471 épisodes
-TF1: 158 épisodes
-Disney+: 118 épisodes
-Trois chaînes qui ont diffusé le plus d'épisodes :
-Etats-Unis: 1439 épisodes
-France: 423 épisodes
-Canada: 288 épisodes
-Trois chaînes qui ont diffusé le plus d'épisodes :
-Netflix: 471 épisodes
-TF1: 158 épisodes
-Disney+: 118 épisodes
-Trois chaînes qui ont diffusé le plus d'épisodes :
-Etats-Unis: 1439 épisodes
-France: 423 épisodes
-Canada: 288 épisodes
-Trois chaînes qui ont diffusé le plus d'épisodes :
-Netflix: 471 épisodes
-TF1: 158 épisodes
-Disney+: 118 épisodes
-Trois chaînes qui ont diffusé le plus d'épisodes :
-Etats-Unis: 1439 épisodes
-France: 423 épisodes
-Canada: 288 épisodes
-Trois chaînes qui ont diffusé le plus d'épisodes :
-Netflix: 471 épisodes
-TF1: 158 épisodes
-Disney+: 118 épisodes
-Trois chaînes qui ont diffusé le plus d'épisodes :
-Etats-Unis: 1439 épisodes
-France: 423 épisodes
-Canada: 288 épisodes
-Trois chaînes qui ont diffusé le plus d'épisodes :
-Netflix: 471 épisodes
-TF1: 158 épisodes
-Disney+: 118 épisodes
-Trois chaînes qui ont diffusé le plus d'épisodes :
-Etats-Unis: 1439 épisodes
-France: 423 épisodes
-Canada: 288 épisodes
-Trois chaînes qui ont diffusé le plus d'épisodes :
-Etats-Unis: 705 épisodes
-Canada: 131 épisodes
-Royaume-Uni: 87 épisodes
-Trois chaînes qui ont diffusé le plus d'épisodes :
-Netflix: 471 épisodes
-TF1: 158 épisodes
-Disney+: 118 épisodes
-Trois chaînes qui ont diffusé le plus d'épisodes :
-Etats-Unis: 1439 épisodes
-France: 423 épisodes
-Canada: 288 épisodes
-Trois chaînes qui ont diffusé le plus d'épisodes :
-Etats-Unis: 705 épisodes
-Canada: 131 épisodes
-Royaume-Uni: 87 épisodes
-Trois chaînes qui ont diffusé le plus d'épisodes :
-Netflix: 471 épisodes
-TF1: 158 épisodes
-Disney+: 118 épisodes
-Trois chaînes qui ont diffusé le plus d'épisodes :
-Etats-Unis: 1439 épisodes
-France: 423 épisodes
-Canada: 288 épisodes
-Trois chaînes qui ont diffusé le plus d'épisodes :
-Etats-Unis: 705 épisodes
-Canada: 131 épisodes
-Royaume-Uni: 87 épisodes
-Trois chaînes qui ont diffusé le plus d'épisodes :
-Netflix: 471 épisodes
-TF1: 158 épisodes
-Disney+: 118 épisodes
-Trois chaînes qui ont diffusé le plus d'épisodes :
-Etats-Unis: 1439 épisodes
-France: 423 épisodes
-Canada: 288 épisodes
-Trois chaînes qui ont diffusé le plus d'épisodes :
-Etats-Unis: 705 épisodes
-Canada: 131 épisodes
-Royaume-Uni: 87 épisodes
-Trois chaînes qui ont diffusé le plus d'épisodes :
-Netflix: 147 épisodes
-Hulu: 84 épisodes
-Disney+: 79 épisodes
-Trois chaînes qui ont diffusé le plus d'épisodes :
-Netflix: 471 épisodes
-TF1: 158 épisodes
-Disney+: 118 épisodes
-Trois chaînes qui ont diffusé le plus d'épisodes :
-Etats-Unis: 1439 épisodes
-France: 423 épisodes
-Canada: 288 épisodes
-Trois chaînes qui ont diffusé le plus d'épisodes :
-Etats-Unis: 705 épisodes
-Canada: 131 épisodes
-Royaume-Uni: 87 épisodes
-Trois chaînes qui ont diffusé le plus d'épisodes :
-Netflix: 147 épisodes
-Hulu: 84 épisodes
-Disney+: 79 épisodes
-Trois chaînes qui ont diffusé le plus d'épisodes :
-Netflix: 471 épisodes
-TF1: 158 épisodes
-Disney+: 118 épisodes
-Trois chaînes qui ont diffusé le plus d'épisodes :
-Etats-Unis: 1439 épisodes
-France: 423 épisodes
-Canada: 288 épisodes
-Trois chaînes qui ont diffusé le plus d'épisodes :
-Etats-Unis: 1439 épisodes
-France: 423 épisodes
-Canada: 288 épisodes
-Trois chaînes qui ont diffusé le plus d'épisodes :
-Netflix: 471 épisodes
-TF1: 158 épisodes
-Disney+: 118 épisodes
-Trois chaînes qui ont diffusé le plus d'épisodes :
-Netflix: 471 épisodes
-TF1: 158 épisodes
-Disney+: 118 épisodes
-Trois chaînes qui ont diffusé le plus d'épisodes :
-Etats-Unis: 1439 épisodes
-France: 423 épisodes
-Canada: 288 épisodes
-Trois chaînes qui ont diffusé le plus d'épisodes :
-Etats-Unis: 1439 épisodes
-France: 423 épisodes
-Canada: 288 épisodes
-Trois chaînes qui ont diffusé le plus d'épisodes :
-Netflix: 471 épisodes
-TF1: 158 épisodes
-Disney+: 118 épisodes
-Trois chaînes qui ont diffusé le plus d'épisodes :
-Netflix: 471 épisodes
-TF1: 158 épisodes
-Disney+: 118 épisodes
-Trois chaînes qui ont diffusé le plus d'épisodes :
-Etats-Unis: 1439 épisodes
-France: 423 épisodes
-Canada: 288 épisodes
-Trois chaînes qui ont diffusé le plus d'épisodes :
-Netflix: 471 épisodes
-TF1: 158 épisodes
-Disney+: 118 épisodes
-Trois chaînes qui ont diffusé le plus d'épisodes :
-Etats-Unis: 1439 épisodes
-France: 423 épisodes
-Canada: 288 épisodes
-Trois chaînes qui ont diffusé le plus d'épisodes :
-Etats-Unis: 1439 épisodes
-France: 423 épisodes
-Canada: 288 épisodes
-Trois chaînes qui ont diffusé le plus d'épisodes :
-Netflix: 471 épisodes
-TF1: 158 épisodes
-Disney+: 118 épisodes
-Trois chaînes qui ont diffusé le plus d'épisodes :
-Netflix: 471 épisodes
-TF1: 158 épisodes
-Disney+: 118 épisodes
-Trois chaînes qui ont diffusé le plus d'épisodes :
-Etats-Unis: 1439 épisodes
-France: 423 épisodes
-Canada: 288 épisodes
-Trois chaînes qui ont diffusé le plus d'épisodes :
-Etats-Unis: 1439 épisodes
-France: 423 épisodes
-Canada: 288 épisodes
-Trois chaînes qui ont diffusé le plus d'épisodes :
-Netflix: 471 épisodes
-TF1: 158 épisodes
-Disney+: 118 épisodes
-Trois chaînes qui ont diffusé le plus d'épisodes :
-Netflix: 471 épisodes
-TF1: 158 épisodes
-Disney+: 118 épisodes
-Trois chaînes qui ont diffusé le plus d'épisodes :
-Etats-Unis: 1439 épisodes
-France: 423 épisodes
-Canada: 288 épisodes
-Trois chaînes qui ont diffusé le plus d'épisodes :
-Etats-Unis: 1439 épisodes
-France: 423 épisodes
-Canada: 288 épisodes
-Trois chaînes qui ont diffusé le plus d'épisodes :
-Netflix: 471 épisodes
-TF1: 158 épisodes
-Disney+: 118 épisodes
-Trois chaînes qui ont diffusé le plus d'épisodes :
-Netflix: 471 épisodes
-TF1: 158 épisodes
-Disney+: 118 épisodes
-Trois chaînes qui ont diffusé le plus d'épisodes :
-Etats-Unis: 1439 épisodes
-France: 423 épisodes
-Canada: 288 épisodes
-Trois chaînes qui ont diffusé le plus d'épisodes :
-Etats-Unis: 1439 épisodes
-France: 423 épisodes
-Canada: 288 épisodes
-Trois chaînes qui ont diffusé le plus d'épisodes :
-Netflix: 471 épisodes
-TF1: 158 épisodes
-Disney+: 118 épisodes
-Trois chaînes qui ont diffusé le plus d'épisodes :
-Netflix: 471 épisodes
-TF1: 158 épisodes
-Disney+: 118 épisodes
-Trois chaînes qui ont diffusé le plus d'épisodes :
-Etats-Unis: 1439 épisodes
-France: 423 épisodes
-Canada: 288 épisodes
-Trois chaînes qui ont diffusé le plus d'épisodes :
-Etats-Unis: 1439 épisodes
-France: 423 épisodes
-Canada: 288 épisodes
-Trois chaînes qui ont diffusé le plus d'épisodes :
-Netflix: 471 épisodes
-TF1: 158 épisodes
-Disney+: 118 épisodes

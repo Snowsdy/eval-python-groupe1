@@ -1,8 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
-import csv
-from pprint import pp
-from sql import add_new_episode, get_episodes, get_episode_by_month
+
 def episodes_month(month):
     # URL de la page Web contenant les données des épisodes
     url = f"https://www.spin-off.fr/calendrier_des_series.html?date=2023-{month}"
@@ -71,7 +69,7 @@ def episodes_month(month):
 
 episodes_october = episodes_month(10)
 
-# AJout des episodes du mois d'octobre
+# Ajout des episodes du mois d'octobre dans la bdd (nécessite l'import de la function depuis sql.py)
 # add_new_episode(episodes_october)
 
 def count_by_attribute(episodes, attribute):

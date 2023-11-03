@@ -1,5 +1,4 @@
 import csv
-import pandas as pd
 from sql import create_tables, add_new_episode
 
 # Créer les tables dans la base de données SQLite
@@ -32,7 +31,6 @@ with open('data/files/episodes.csv', 'r', newline='', encoding='utf-8') as csvfi
             'url': url
         }
 
-    
         add_new_episode([new_episode])
 
 print("Les données ont été insérées dans la base de données.")
