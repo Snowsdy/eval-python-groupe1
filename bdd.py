@@ -31,7 +31,8 @@ with open('data/files/episodes.csv', 'r', newline='', encoding='utf-8') as csvfi
             'channel': channel,
             'url': url
         }
-        episode_df = pd.DataFrame([new_episode])
-        add_new_episode(episode_df)
+
+    
+        add_new_episode([new_episode])
 
 print("Les données ont été insérées dans la base de données.")

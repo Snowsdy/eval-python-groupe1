@@ -25,8 +25,8 @@ def get_channel_with_max_consecutive_days():
     # Close the connection
     conn.close()
 
-    return max_channel
+    return max_channel, max_consecutive_days[max_channel]
 
 # Call the function to get the channel with the greatest number of consecutive days in October
-result = get_channel_with_max_consecutive_days()
-print(f"The channel with the greatest number of consecutive days in October is: {result}")
+result, nb_days = get_channel_with_max_consecutive_days()
+print(f"The channel with the greatest number of consecutive days in October is: {result} with {nb_days} consecutive days")
