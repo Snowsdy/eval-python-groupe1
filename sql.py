@@ -145,12 +145,12 @@ def get_durations():
     dataframe = panda.read_sql(f'SELECT * FROM duration', con=conn)
 
     # Export the data into dict
-    episodes = dataframe.to_dict()
+    durations = dataframe.to_dict()
 
     # Close the connection
     conn.close()
 
-    return episodes
+    return durations
 
 # -------------------------------
 
@@ -162,12 +162,12 @@ def get_duration_by_id(id):
     dataframe = panda.read_sql(f'SELECT * FROM duration WHERE id = {id}', con=conn)
 
     # Export the data into dict
-    episode = dataframe.to_dict()
+    duration = dataframe.to_dict()
 
     # Close the connection
     conn.close()
 
-    return episode
+    return duration
 
 # -------------------------------
 

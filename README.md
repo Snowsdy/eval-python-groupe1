@@ -14,7 +14,7 @@ pip install -r requirements.txt
     Netflix: 471 épisodes
     TF1: 158 épisodes
     Disney+: 118 épisodes
-    
+
 ### Trois pays qui ont diffusé le plus d'épisodes :
     Etats-Unis: 1439 épisodes
     France: 423 épisodes
