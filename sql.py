@@ -108,7 +108,7 @@ def get_episode_by_month(month):
     dataframe['date'] = panda.to_datetime(dataframe['date'], format='%d-%m-%Y')
 
     # Filter episodes for November
-    month_episodes = dataframe[dataframe['date'].dt.month == month]
+    month_episodes = dataframe[dataframe['date'].dt.month == month].copy()
 
     # Extract just the date part
     month_episodes['date'] = month_episodes['date'].dt.strftime('%d-%m-%Y')
@@ -116,7 +116,11 @@ def get_episode_by_month(month):
     # Close the connection
     conn.close()
 
-    return month_episodes.to_dict()
+    # Convert the filtered dataframe to a list of dictionaries
+    episodes_data = month_episodes.to_dict(orient='records')
+
+    return episodes_data
+
 
 # -------------------------------
 
