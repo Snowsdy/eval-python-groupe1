@@ -1,16 +1,30 @@
-Mots les plus fr�quents dans les noms des s�ries :
-the: 21 occurrences
-of: 7 occurrences
-les: 3 occurrences
-(2023): 3 occurrences
-la: 2 occurrences
-park: 2 occurrences
-american: 2 occurrences
-horror: 2 occurrences
-everything: 2 occurrences
-last: 2 occurrences
-walking: 2 occurrences
-in: 2 occurrences
-�: 2 occurrences
-young: 2 occurrences
-john: 2 occurrences
+# Evaluation Python Groupe n°1
+
+## Config
+
+Installer les dépendances :
+
+```bash
+
+pip install -r requirements.txt
+
+```
+
+## Réponses aux mots qui reviennent le plus souvent dans les séries
+
+Mots les plus fréquents dans les noms des séries :
+'the': 23 occurrences
+'of': 7 occurrences
+'de': 3 occurrences
+'american': 3 occurrences
+'les': 3 occurrences
+'(2023)': 3 occurrences
+'all': 2 occurrences
+'horror': 2 occurrences
+'la': 2 occurrences
+'park': 2 occurrences
+'in': 2 occurrences
+'good': 2 occurrences
+'(2022)': 2 occurrences
+'soko': 2 occurrences
+'à': 2 occurrences
