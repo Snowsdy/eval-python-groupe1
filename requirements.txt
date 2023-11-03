@@ -12,3 +12,6 @@
 ./requirements/beautifulsoup4-4.12.2-py3-none-any.whl
 ./requirements/soupsieve-2.5-py3-none-any.whl
 ./requirements/bs4-0.0.1.tar.gz
+./requirements/greenlet-3.0.1-cp311-cp311-win_amd64.whl
+./requirements/SQLAlchemy-2.0.23-cp311-cp311-win_amd64.whl
+./requirements/typing_extensions-4.8.0-py3-none-any.whl
