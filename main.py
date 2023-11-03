@@ -24,7 +24,7 @@ for index, row in enumerate(target_table.find_all("tr"), 1):
     if index == 1:
         pass  # Ignorer la première ligne qui contient les en-têtes
     else:
-        cells = row.find_all("td", class_="floatleftmobile td_jour")
+        cells = row.find_all("td", class_="td_jour")
 
         for cell in cells:
             # Extraire la date de l'épisode à partir de l'attribut 'id' du div_jour
