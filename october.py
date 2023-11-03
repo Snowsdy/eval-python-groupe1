@@ -84,10 +84,10 @@ def count_by_attribute(episodes, attribute):
     sorted_channels = sorted(count_per_attribute.items(), key=lambda x: x[1], reverse=True)
     top_channels = sorted_channels[:3]
 
-    with open('README.md', 'a+', encoding='utf-8') as file:
-        file.write("Trois chaînes qui ont diffusé le plus d'épisodes :\n")
-        for channel, episode_count in top_channels:
-            file.write(f"{channel}: {episode_count} épisodes\n")
+    # with open('README.md', 'a+', encoding='utf-8') as file:
+    #     file.write("Trois chaînes qui ont diffusé le plus d'épisodes :\n")
+    #     for channel, episode_count in top_channels:
+    #         file.write(f"{channel}: {episode_count} épisodes\n")
 
     return top_channels
 
