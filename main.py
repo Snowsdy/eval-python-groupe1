@@ -3,6 +3,7 @@ import requests
 from bs4 import BeautifulSoup
 import csv
 from pprint import pprint
+from sql import add_new_episode, get_episodes
 
 # URL de la page Web contenant les données des épisodes
 url = "https://www.spin-off.fr/calendrier_des_series.html"
@@ -66,5 +67,8 @@ with open('data/files/episodes.csv', 'w', newline='', encoding='utf-8') as csvfi
     writer.writeheader()
     writer.writerows(episodes_data)
 
-# Afficher les données extraites
-pprint(episodes_data)
+# Écrire les données dans la bdd
+add_new_episode(episodes_data)
+
+# Afficher les données extraites depuis la bdd
+pprint(get_episodes())

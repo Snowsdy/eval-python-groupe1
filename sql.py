@@ -79,15 +79,17 @@ def add_new_episode(new_episode) -> int | None:
 
 # -------------------------------
 
-def get_episode_by_id(id):
+def get_episode_whitout_id(name, episode_number, episode_season, date, country, channel, url):
     # Connect to the SQLite database
     conn = sqlite3.connect('data/databases/database.db')
 
     # Make the query to get the dataframe
-    dataframe = panda.read_sql(f'SELECT * FROM episode WHERE id = {id}', con=conn)
+    query = f"SELECT * FROM episode WHERE name = ? AND episode_number = ? AND episode_season = ? AND date = ? AND country = ? AND channel = ? AND url = ?"
+    params = (name, episode_number, episode_season, date, country, channel, url)
+    dataframe = panda.read_sql(query, con=conn, params=params)
 
     # Export the data into dict
-    episode = dataframe.to_dict()
+    episode = dataframe.to_dict(orient='records')
 
     # Close the connection
     conn.close()
@@ -107,7 +109,7 @@ def get_episode_by_month(month):
     # Convert the 'date' column to datetime format
     dataframe['date'] = panda.to_datetime(dataframe['date'], format='%d-%m-%Y')
 
-    # Filter episodes for November
+    # Filter episodes for month
     month_episodes = dataframe[dataframe['date'].dt.month == month].copy()
 
     # Extract just the date part
@@ -121,7 +123,6 @@ def get_episode_by_month(month):
 
     return episodes_data
 
-
 # -------------------------------
 
 def get_episodes():
@@ -132,7 +133,7 @@ def get_episodes():
     dataframe = panda.read_sql(f'SELECT * FROM episode', con=conn)
 
     # Export the data into dict
-    episodes = dataframe.to_dict()
+    episodes = dataframe.to_dict(orient='records')
 
     # Close the connection
     conn.close()
@@ -149,7 +150,7 @@ def get_durations():
     dataframe = panda.read_sql(f'SELECT * FROM duration', con=conn)
 
     # Export the data into dict
-    durations = dataframe.to_dict()
+    durations = dataframe.to_dict(orient='records')
 
     # Close the connection
     conn.close()
@@ -166,7 +167,7 @@ def get_duration_by_id(id):
     dataframe = panda.read_sql(f'SELECT * FROM duration WHERE id = {id}', con=conn)
 
     # Export the data into dict
-    duration = dataframe.to_dict()
+    duration = dataframe.to_dict(orient='records')
 
     # Close the connection
     conn.close()
