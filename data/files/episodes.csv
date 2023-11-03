@@ -1,1 +1,783 @@
-Série;Numéro de l'épisode;Numéro de la saison;Date de diffusion;Pays d'origine;Chaîne;URL de l'épisode
+name,episode_number,episode_season,date,country,channel
+4 Estrellas,110,1,01-11-2023,Espagne,TVE
+Black Cake,01,1,01-11-2023,Etats-Unis,Hulu
+Black Cake,02,1,01-11-2023,Etats-Unis,Hulu
+Black Cake,03,1,01-11-2023,Etats-Unis,Hulu
+Blanca,05,2,01-11-2023,Italie,Rai 1
+Children Ruin Everything,06,3,01-11-2023,Canada,CTV
+Chucky,05,3,01-11-2023,Etats-Unis,Syfy
+Cooper's Bar,05,2,01-11-2023,Etats-Unis,AMC
+Demain nous appartient,53,7,01-11-2023,France,TF1
+Hotel Mondial,05,2,01-11-2023,Allemagne,ZDF
+Hudson & Rex,05,6,01-11-2023,Canada,Citytv
+I Leoni di Sicilia,05,1,01-11-2023,Etats-Unis,Disney+
+I Leoni di Sicilia,06,1,01-11-2023,Etats-Unis,Disney+
+I Leoni di Sicilia,07,1,01-11-2023,Etats-Unis,Disney+
+I Leoni di Sicilia,08,1,01-11-2023,Etats-Unis,Disney+
+Ici tout commence,48,4,01-11-2023,France,TF1
+Inspirez expirez,04,1,01-11-2023,Canada,CraveTV
+Inspirez expirez,05,1,01-11-2023,Canada,CraveTV
+Magnum P.I. (2018),15,5,01-11-2023,Etats-Unis,NBC
+Quantum Leap (2022),05,2,01-11-2023,Etats-Unis,NBC
+Robyn Hood,06,1,01-11-2023,Canada,Global
+Shetland,01,8,01-11-2023,Royaume-Uni,BBC One
+Sistas,14,6,01-11-2023,Etats-Unis,BET
+SurrealEstate,05,2,01-11-2023,Etats-Unis,Syfy
+The Morning Show,09,3,01-11-2023,Etats-Unis,Apple TV+
+Un Si Grand Soleil,42,6,01-11-2023,France,France 2
+Young Dylan,09,4,01-11-2023,Etats-Unis,Nickelodeon
+4 Estrellas,111,1,02-11-2023,Espagne,TVE
+All Creatures Great and Small (2020),05,4,02-11-2023,Royaume-Uni,Channel 5
+All the Light We Cannot See,01,1,02-11-2023,Etats-Unis,Netflix
+All the Light We Cannot See,02,1,02-11-2023,Etats-Unis,Netflix
+All the Light We Cannot See,03,1,02-11-2023,Etats-Unis,Netflix
+All the Light We Cannot See,04,1,02-11-2023,Etats-Unis,Netflix
+À La Carte,08,2,02-11-2023,Etats-Unis,ALLBLK
+Demain nous appartient,54,7,02-11-2023,France,TF1
+Doom Patrol,11,4,02-11-2023,Etats-Unis,HBO Max
+Frasier (2023),05,1,02-11-2023,Etats-Unis,Paramount+
+Gadis Kretek,01,1,02-11-2023,Etats-Unis,Netflix
+Gadis Kretek,02,1,02-11-2023,Etats-Unis,Netflix
+Gadis Kretek,03,1,02-11-2023,Etats-Unis,Netflix
+Gadis Kretek,04,1,02-11-2023,Etats-Unis,Netflix
+Gadis Kretek,05,1,02-11-2023,Etats-Unis,Netflix
+Ici tout commence,49,4,02-11-2023,France,TF1
+Kingdom Business,01,2,02-11-2023,Etats-Unis,BET+
+La Mesias,05,1,02-11-2023,Espagne,Moviestar+
+Loki,05,2,02-11-2023,Etats-Unis,Disney+
+LT-21,07,1,02-11-2023,France,OCS
+LT-21,08,1,02-11-2023,France,OCS
+Star Trek: Lower Decks,10,4,02-11-2023,Etats-Unis,Paramount+
+The Vanishing Triangle,03,1,02-11-2023,Etats-Unis,SundanceTV
+Un Si Grand Soleil,43,6,02-11-2023,France,France 2
+All Rise,18,3,04-11-2023,Etats-Unis,OWN
+Boomer,10,1,04-11-2023,Belgique,Één
+Billy the Kid,04,2,05-11-2023,Etats-Unis,Epix
+Bob's Burgers,05,14,05-11-2023,Etats-Unis,Fox
+Entre Tierras,09,1,05-11-2023,Espagne,ATRESplayer
+Family Guy,04,22,05-11-2023,Etats-Unis,Fox
+Fear the Walking Dead,09,8,05-11-2023,Etats-Unis,AMC
+Heartland (CA),06,17,05-11-2023,Canada,CBC
+Krapopolis,07,1,05-11-2023,Etats-Unis,Fox
+Lawmen: Bass Reeves,01,1,05-11-2023,Etats-Unis,Paramount+
+Lawmen: Bass Reeves,02,1,05-11-2023,Etats-Unis,Paramount+
+Les Mystères de l'amour,13,33,05-11-2023,France,TMC
+Rick and Morty,04,7,05-11-2023,Etats-Unis,Adult Swim
+SkyMed,06,2,05-11-2023,Canada,CBC Gem
+The Gilded Age,02,2,05-11-2023,Etats-Unis,HBO
+The Simpsons,05,35,05-11-2023,Etats-Unis,Fox
+The Winter King,10,1,05-11-2023,Royaume-Uni,ITVX
+Found,06,1,07-11-2023,Etats-Unis,NBC
+The Oval,04,5,07-11-2023,Etats-Unis,BET
+Black Cake,04,1,08-11-2023,Etats-Unis,Hulu
+Blanca,06,2,08-11-2023,Italie,Rai 1
+Children Ruin Everything,07,3,08-11-2023,Canada,CTV
+Chucky,06,3,08-11-2023,Etats-Unis,Syfy
+Cooper's Bar,06,2,08-11-2023,Etats-Unis,AMC
+Culprits,01,1,08-11-2023,Etats-Unis,Disney+
+Culprits,02,1,08-11-2023,Etats-Unis,Disney+
+Culprits,03,1,08-11-2023,Etats-Unis,Disney+
+Culprits,04,1,08-11-2023,Etats-Unis,Disney+
+Culprits,05,1,08-11-2023,Etats-Unis,Disney+
+Culprits,06,1,08-11-2023,Etats-Unis,Disney+
+Culprits,07,1,08-11-2023,Etats-Unis,Disney+
+Culprits,08,1,08-11-2023,Etats-Unis,Disney+
+Hotel Mondial,06,2,08-11-2023,Allemagne,ZDF
+Hudson & Rex,06,6,08-11-2023,Canada,Citytv
+Inspirez expirez,06,1,08-11-2023,Canada,CraveTV
+Inspirez expirez,07,1,08-11-2023,Canada,CraveTV
+Robyn Hood,07,1,08-11-2023,Canada,Global
+Shetland,02,8,08-11-2023,Royaume-Uni,BBC One
+Sistas,15,6,08-11-2023,Etats-Unis,BET
+SurrealEstate,06,2,08-11-2023,Etats-Unis,Syfy
+The Buccaneers (2023),01,1,08-11-2023,Etats-Unis,Apple TV+
+The Buccaneers (2023),02,1,08-11-2023,Etats-Unis,Apple TV+
+The Buccaneers (2023),03,1,08-11-2023,Etats-Unis,Apple TV+
+The Morning Show,10,3,08-11-2023,Etats-Unis,Apple TV+
+The Santa Clauses,01,2,08-11-2023,Etats-Unis,Disney+
+The Santa Clauses,02,2,08-11-2023,Etats-Unis,Disney+
+Vigilante,01,1,08-11-2023,Etats-Unis,Disney+
+Young Dylan,10,4,08-11-2023,Etats-Unis,Nickelodeon
+All Creatures Great and Small (2020),06,4,09-11-2023,Royaume-Uni,Channel 5
+À La Carte,09,2,09-11-2023,Etats-Unis,ALLBLK
+BlackBerry,01,1,09-11-2023,Canada,CBC
+Bros,01,1,09-11-2023,Etats-Unis,Netflix
+Doom Patrol,12,4,09-11-2023,Etats-Unis,HBO Max
+Frasier (2023),06,1,09-11-2023,Etats-Unis,Paramount+
+Kingdom Business,02,2,09-11-2023,Etats-Unis,BET+
+La Mesias,06,1,09-11-2023,Espagne,Moviestar+
+Loki,06,2,09-11-2023,Etats-Unis,Disney+
+Master Crimes,01,1,09-11-2023,France,TF1
+Master Crimes,02,1,09-11-2023,France,TF1
+Rap Sh!t,01,2,09-11-2023,Etats-Unis,HBO Max
+Rap Sh!t,02,2,09-11-2023,Etats-Unis,HBO Max
+The Vanishing Triangle,04,1,09-11-2023,Etats-Unis,SundanceTV
+At the Moment (Ci Shi Ci Ke),01,1,10-11-2023,Etats-Unis,Netflix
+At the Moment (Ci Shi Ci Ke),02,1,10-11-2023,Etats-Unis,Netflix
+At the Moment (Ci Shi Ci Ke),03,1,10-11-2023,Etats-Unis,Netflix
+At the Moment (Ci Shi Ci Ke),04,1,10-11-2023,Etats-Unis,Netflix
+At the Moment (Ci Shi Ci Ke),05,1,10-11-2023,Etats-Unis,Netflix
+At the Moment (Ci Shi Ci Ke),06,1,10-11-2023,Etats-Unis,Netflix
+At the Moment (Ci Shi Ci Ke),07,1,10-11-2023,Etats-Unis,Netflix
+At the Moment (Ci Shi Ci Ke),08,1,10-11-2023,Etats-Unis,Netflix
+At the Moment (Ci Shi Ci Ke),09,1,10-11-2023,Etats-Unis,Netflix
+At the Moment (Ci Shi Ci Ke),10,1,10-11-2023,Etats-Unis,Netflix
+Bosch: Legacy,09,2,10-11-2023,Etats-Unis,Amazon Freevee
+Bosch: Legacy,10,2,10-11-2023,Etats-Unis,Amazon Freevee
+Fellow Travelers,03,1,10-11-2023,Etats-Unis,Showtime
+For All Mankind,01,4,10-11-2023,Etats-Unis,Apple TV+
+Goosebumps (2023),09,1,10-11-2023,Etats-Unis,Disney+
+Invincible,02,2,10-11-2023,Etats-Unis,Prime Video
+Lessons In Chemistry,06,1,10-11-2023,Etats-Unis,Apple TV+
+NCIS: Sydney,01,1,10-11-2023,Etats-Unis,Paramount+
+Power Book IV: Force,10,2,10-11-2023,Etats-Unis,Starz
+Shining Vale,05,2,10-11-2023,Etats-Unis,Starz
+Solsidan,08,8,10-11-2023,Suède,TV4
+The Curse (2023),01,1,10-11-2023,Etats-Unis,Showtime on Demand
+The Good Ship Murder,05,1,10-11-2023,Royaume-Uni,Channel 5
+Transplant,06,4,10-11-2023,Canada,CTV
+Upload,07,3,10-11-2023,Etats-Unis,Prime Video
+Upload,08,3,10-11-2023,Etats-Unis,Prime Video
+Yellowstone,09,5,10-11-2023,Etats-Unis,Paramount Network
+All Rise,19,3,11-11-2023,Etats-Unis,OWN
+Beacon 23,01,1,12-11-2023,Etats-Unis,Epix
+Bob's Burgers,06,14,12-11-2023,Etats-Unis,Fox
+Entre Tierras,10,1,12-11-2023,Espagne,ATRESplayer
+Family Guy,05,22,12-11-2023,Etats-Unis,Fox
+Fear the Walking Dead,10,8,12-11-2023,Etats-Unis,AMC
+Heartland (CA),07,17,12-11-2023,Canada,CBC
+Krapopolis,08,1,12-11-2023,Etats-Unis,Fox
+Les Mystères de l'amour,14,33,12-11-2023,France,TMC
+Rick and Morty,05,7,12-11-2023,Etats-Unis,Adult Swim
+SkyMed,07,2,12-11-2023,Canada,CBC Gem
+The Gilded Age,03,2,12-11-2023,Etats-Unis,HBO
+The Simpsons,06,35,12-11-2023,Etats-Unis,Fox
+A Murder at the End of the World,01,1,14-11-2023,Etats-Unis,Hulu
+A Murder at the End of the World,02,1,14-11-2023,Etats-Unis,Hulu
+DNA do Crime,01,1,14-11-2023,Etats-Unis,Netflix
+Found,07,1,14-11-2023,Etats-Unis,NBC
+Suburræterna,01,1,14-11-2023,Etats-Unis,Netflix
+Black Cake,05,1,15-11-2023,Etats-Unis,Hulu
+Chucky,07,3,15-11-2023,Etats-Unis,Syfy
+Deutsches Haus,01,1,15-11-2023,Etats-Unis,Disney+
+Hotel Mondial,07,2,15-11-2023,Allemagne,ZDF
+Informacja zwrotna,01,1,15-11-2023,Etats-Unis,Netflix
+Inspirez expirez,08,1,15-11-2023,Canada,CraveTV
+Inspirez expirez,09,1,15-11-2023,Canada,CraveTV
+Inspirez expirez,10,1,15-11-2023,Canada,CraveTV
+Magnum P.I. (2018),16,5,15-11-2023,Etats-Unis,NBC
+Quantum Leap (2022),06,2,15-11-2023,Etats-Unis,NBC
+Robyn Hood,08,1,15-11-2023,Canada,Global
+Sahsiyet,01,2,15-11-2023,Turquie,Puhu TV
+Shetland,03,8,15-11-2023,Royaume-Uni,BBC One
+SurrealEstate,07,2,15-11-2023,Etats-Unis,Syfy
+The Buccaneers (2023),04,1,15-11-2023,Etats-Unis,Apple TV+
+The Lazarus Project,01,2,15-11-2023,Royaume-Uni,Sky1
+The Santa Clauses,03,2,15-11-2023,Etats-Unis,Disney+
+Tout va bien,01,1,15-11-2023,Etats-Unis,Disney+
+Tout va bien,02,1,15-11-2023,Etats-Unis,Disney+
+Tout va bien,03,1,15-11-2023,Etats-Unis,Disney+
+Tout va bien,04,1,15-11-2023,Etats-Unis,Disney+
+Tout va bien,05,1,15-11-2023,Etats-Unis,Disney+
+Tout va bien,06,1,15-11-2023,Etats-Unis,Disney+
+Tout va bien,07,1,15-11-2023,Etats-Unis,Disney+
+Tout va bien,08,1,15-11-2023,Etats-Unis,Disney+
+Young Dylan,11,4,15-11-2023,Etats-Unis,Nickelodeon
+Anderson Spider Silva,01,1,16-11-2023,Etats-Unis,Paramount+
+Anderson Spider Silva,02,1,16-11-2023,Etats-Unis,Paramount+
+Anderson Spider Silva,03,1,16-11-2023,Etats-Unis,Paramount+
+Anderson Spider Silva,04,1,16-11-2023,Etats-Unis,Paramount+
+À La Carte,10,2,16-11-2023,Etats-Unis,ALLBLK
+BlackBerry,02,1,16-11-2023,Canada,CBC
+Frasier (2023),07,1,16-11-2023,Etats-Unis,Paramount+
+Julia (2022),01,2,16-11-2023,Etats-Unis,HBO Max
+Julia (2022),02,2,16-11-2023,Etats-Unis,HBO Max
+Julia (2022),03,2,16-11-2023,Etats-Unis,HBO Max
+Kingdom Business,03,2,16-11-2023,Etats-Unis,BET+
+La Mesias,07,1,16-11-2023,Espagne,Moviestar+
+Le Voyageur,05,2,16-11-2023,France,France 3
+Master Crimes,03,1,16-11-2023,France,TF1
+Master Crimes,04,1,16-11-2023,France,TF1
+Rap Sh!t,03,2,16-11-2023,Etats-Unis,HBO Max
+Terror Lake Drive,01,3,16-11-2023,Etats-Unis,ALLBLK
+The Crown,01,6,16-11-2023,Etats-Unis,Netflix
+The Vanishing Triangle,05,1,16-11-2023,Etats-Unis,SundanceTV
+Un professore,01,2,16-11-2023,Italie,Rai 1
+Fellow Travelers,04,1,17-11-2023,Etats-Unis,Showtime
+For All Mankind,02,4,17-11-2023,Etats-Unis,Apple TV+
+Goosebumps (2023),10,1,17-11-2023,Etats-Unis,Disney+
+Heartbeats,01,2,17-11-2023,Suède,TV4
+Invincible,03,2,17-11-2023,Etats-Unis,Prime Video
+Lessons In Chemistry,07,1,17-11-2023,Etats-Unis,Apple TV+
+Monarch: Legacy of Monsters,01,1,17-11-2023,Etats-Unis,Apple TV+
+Monarch: Legacy of Monsters,02,1,17-11-2023,Etats-Unis,Apple TV+
+NCIS: Sydney,02,1,17-11-2023,Etats-Unis,Paramount+
+Ojitos de huevo,01,1,17-11-2023,Etats-Unis,Netflix
+Sagrada familia,01,2,17-11-2023,Etats-Unis,Netflix
+Shining Vale,06,2,17-11-2023,Etats-Unis,Starz
+Solsidan,09,8,17-11-2023,Suède,TV4
+Sort Of,01,3,17-11-2023,Canada,CBC Gem
+The Curse (2023),02,1,17-11-2023,Etats-Unis,Showtime on Demand
+The Good Ship Murder,06,1,17-11-2023,Royaume-Uni,Channel 5
+Transplant,07,4,17-11-2023,Canada,CTV
+All Rise,20,3,18-11-2023,Etats-Unis,OWN
+Beacon 23,02,1,19-11-2023,Etats-Unis,Epix
+Fear the Walking Dead,11,8,19-11-2023,Etats-Unis,AMC
+Fear the Walking Dead,12,8,19-11-2023,Etats-Unis,AMC
+Heartland (CA),08,17,19-11-2023,Canada,CBC
+Krapopolis,09,1,19-11-2023,Etats-Unis,Fox
+Les Mystères de l'amour,15,33,19-11-2023,France,TMC
+Rick and Morty,06,7,19-11-2023,Etats-Unis,Adult Swim
+The Gilded Age,04,2,19-11-2023,Etats-Unis,HBO
+A Murder at the End of the World,03,1,21-11-2023,Etats-Unis,Hulu
+Fargo,01,5,21-11-2023,Etats-Unis,FX
+Fargo,02,5,21-11-2023,Etats-Unis,FX
+Found,08,1,21-11-2023,Etats-Unis,NBC
+Black Cake,06,1,22-11-2023,Etats-Unis,Hulu
+Chucky,08,3,22-11-2023,Etats-Unis,Syfy
+Magnum P.I. (2018),17,5,22-11-2023,Etats-Unis,NBC
+Magnum P.I. (2018),18,5,22-11-2023,Etats-Unis,NBC
+SurrealEstate,08,2,22-11-2023,Etats-Unis,Syfy
+The Buccaneers (2023),05,1,22-11-2023,Etats-Unis,Apple TV+
+The Santa Clauses,04,2,22-11-2023,Etats-Unis,Disney+
+BlackBerry,03,1,23-11-2023,Canada,CBC
+Frasier (2023),08,1,23-11-2023,Etats-Unis,Paramount+
+Julia (2022),04,2,23-11-2023,Etats-Unis,HBO Max
+Kingdom Business,04,2,23-11-2023,Etats-Unis,BET+
+Master Crimes,05,1,23-11-2023,France,TF1
+Master Crimes,06,1,23-11-2023,France,TF1
+Rap Sh!t,04,2,23-11-2023,Etats-Unis,HBO Max
+The Vanishing Triangle,06,1,23-11-2023,Etats-Unis,SundanceTV
+En helt vanlig familj,01,1,24-11-2023,Etats-Unis,Netflix
+Fellow Travelers,05,1,24-11-2023,Etats-Unis,Showtime
+For All Mankind,03,4,24-11-2023,Etats-Unis,Apple TV+
+Invincible,04,2,24-11-2023,Etats-Unis,Prime Video
+Lessons In Chemistry,08,1,24-11-2023,Etats-Unis,Apple TV+
+Monarch: Legacy of Monsters,03,1,24-11-2023,Etats-Unis,Apple TV+
+My Demon,01,1,24-11-2023,Etats-Unis,Netflix
+NCIS: Sydney,03,1,24-11-2023,Etats-Unis,Paramount+
+Shining Vale,07,2,24-11-2023,Etats-Unis,Starz
+Solsidan,10,8,24-11-2023,Suède,TV4
+The Curse (2023),03,1,24-11-2023,Etats-Unis,Showtime on Demand
+The Good Ship Murder,07,1,24-11-2023,Royaume-Uni,Channel 5
+Transplant,08,4,24-11-2023,Canada,CTV
+Doctor Who (2005),XX,14,25-11-2023,Royaume-Uni,BBC One
+My Demon,02,1,25-11-2023,Etats-Unis,Netflix
+Beacon 23,03,1,26-11-2023,Etats-Unis,Epix
+Rick and Morty,07,7,26-11-2023,Etats-Unis,Adult Swim
+The Gilded Age,05,2,26-11-2023,Etats-Unis,HBO
+A Murder at the End of the World,04,1,28-11-2023,Etats-Unis,Hulu
+Fargo,03,5,28-11-2023,Etats-Unis,FX
+Found,09,1,28-11-2023,Etats-Unis,NBC
+Black Cake,07,1,29-11-2023,Etats-Unis,Hulu
+Magnum P.I. (2018),19,5,29-11-2023,Etats-Unis,NBC
+Quantum Leap (2022),09,2,29-11-2023,Etats-Unis,NBC
+SurrealEstate,09,2,29-11-2023,Etats-Unis,Syfy
+The Artful Dodger,01,1,29-11-2023,Etats-Unis,Disney+
+The Buccaneers (2023),06,1,29-11-2023,Etats-Unis,Apple TV+
+The Santa Clauses,05,2,29-11-2023,Etats-Unis,Disney+
+Family Law (CAN),01,3,30-11-2023,Canada,Global
+Family Law (CAN),02,3,30-11-2023,Canada,Global
+Family Law (CAN),03,3,30-11-2023,Canada,Global
+Family Law (CAN),04,3,30-11-2023,Canada,Global
+Family Law (CAN),05,3,30-11-2023,Canada,Global
+Family Law (CAN),06,3,30-11-2023,Canada,Global
+Family Law (CAN),07,3,30-11-2023,Canada,Global
+Family Law (CAN),08,3,30-11-2023,Canada,Global
+Family Law (CAN),09,3,30-11-2023,Canada,Global
+Family Law (CAN),10,3,30-11-2023,Canada,Global
+Frasier (2023),09,1,30-11-2023,Etats-Unis,Paramount+
+Julia (2022),05,2,30-11-2023,Etats-Unis,HBO Max
+Obliterated,01,1,30-11-2023,Etats-Unis,Netflix
+Obliterated,02,1,30-11-2023,Etats-Unis,Netflix
+Obliterated,03,1,30-11-2023,Etats-Unis,Netflix
+Obliterated,04,1,30-11-2023,Etats-Unis,Netflix
+Obliterated,05,1,30-11-2023,Etats-Unis,Netflix
+Obliterated,06,1,30-11-2023,Etats-Unis,Netflix
+Obliterated,07,1,30-11-2023,Etats-Unis,Netflix
+Obliterated,08,1,30-11-2023,Etats-Unis,Netflix
+Rap Sh!t,05,2,30-11-2023,Etats-Unis,HBO Max
+Virgin River,11,5,30-11-2023,Etats-Unis,Netflix
+Virgin River,12,5,30-11-2023,Etats-Unis,Netflix
+Found,06,1,07-11-2023,Etats-Unis,NBC
+The Oval,04,5,07-11-2023,Etats-Unis,BET
+Black Cake,04,1,08-11-2023,Etats-Unis,Hulu
+Blanca,06,2,08-11-2023,Italie,Rai 1
+Children Ruin Everything,07,3,08-11-2023,Canada,CTV
+Chucky,06,3,08-11-2023,Etats-Unis,Syfy
+Cooper's Bar,06,2,08-11-2023,Etats-Unis,AMC
+Culprits,01,1,08-11-2023,Etats-Unis,Disney+
+Culprits,02,1,08-11-2023,Etats-Unis,Disney+
+Culprits,03,1,08-11-2023,Etats-Unis,Disney+
+Culprits,04,1,08-11-2023,Etats-Unis,Disney+
+Culprits,05,1,08-11-2023,Etats-Unis,Disney+
+Culprits,06,1,08-11-2023,Etats-Unis,Disney+
+Culprits,07,1,08-11-2023,Etats-Unis,Disney+
+Culprits,08,1,08-11-2023,Etats-Unis,Disney+
+Hotel Mondial,06,2,08-11-2023,Allemagne,ZDF
+Hudson & Rex,06,6,08-11-2023,Canada,Citytv
+Inspirez expirez,06,1,08-11-2023,Canada,CraveTV
+Inspirez expirez,07,1,08-11-2023,Canada,CraveTV
+Robyn Hood,07,1,08-11-2023,Canada,Global
+Shetland,02,8,08-11-2023,Royaume-Uni,BBC One
+Sistas,15,6,08-11-2023,Etats-Unis,BET
+SurrealEstate,06,2,08-11-2023,Etats-Unis,Syfy
+The Buccaneers (2023),01,1,08-11-2023,Etats-Unis,Apple TV+
+The Buccaneers (2023),02,1,08-11-2023,Etats-Unis,Apple TV+
+The Buccaneers (2023),03,1,08-11-2023,Etats-Unis,Apple TV+
+The Morning Show,10,3,08-11-2023,Etats-Unis,Apple TV+
+The Santa Clauses,01,2,08-11-2023,Etats-Unis,Disney+
+The Santa Clauses,02,2,08-11-2023,Etats-Unis,Disney+
+Vigilante,01,1,08-11-2023,Etats-Unis,Disney+
+Young Dylan,10,4,08-11-2023,Etats-Unis,Nickelodeon
+All Creatures Great and Small (2020),06,4,09-11-2023,Royaume-Uni,Channel 5
+À La Carte,09,2,09-11-2023,Etats-Unis,ALLBLK
+BlackBerry,01,1,09-11-2023,Canada,CBC
+Bros,01,1,09-11-2023,Etats-Unis,Netflix
+Doom Patrol,12,4,09-11-2023,Etats-Unis,HBO Max
+Frasier (2023),06,1,09-11-2023,Etats-Unis,Paramount+
+Kingdom Business,02,2,09-11-2023,Etats-Unis,BET+
+La Mesias,06,1,09-11-2023,Espagne,Moviestar+
+Loki,06,2,09-11-2023,Etats-Unis,Disney+
+Master Crimes,01,1,09-11-2023,France,TF1
+Master Crimes,02,1,09-11-2023,France,TF1
+Rap Sh!t,01,2,09-11-2023,Etats-Unis,HBO Max
+Rap Sh!t,02,2,09-11-2023,Etats-Unis,HBO Max
+The Vanishing Triangle,04,1,09-11-2023,Etats-Unis,SundanceTV
+At the Moment (Ci Shi Ci Ke),01,1,10-11-2023,Etats-Unis,Netflix
+At the Moment (Ci Shi Ci Ke),02,1,10-11-2023,Etats-Unis,Netflix
+At the Moment (Ci Shi Ci Ke),03,1,10-11-2023,Etats-Unis,Netflix
+At the Moment (Ci Shi Ci Ke),04,1,10-11-2023,Etats-Unis,Netflix
+At the Moment (Ci Shi Ci Ke),05,1,10-11-2023,Etats-Unis,Netflix
+At the Moment (Ci Shi Ci Ke),06,1,10-11-2023,Etats-Unis,Netflix
+At the Moment (Ci Shi Ci Ke),07,1,10-11-2023,Etats-Unis,Netflix
+At the Moment (Ci Shi Ci Ke),08,1,10-11-2023,Etats-Unis,Netflix
+At the Moment (Ci Shi Ci Ke),09,1,10-11-2023,Etats-Unis,Netflix
+At the Moment (Ci Shi Ci Ke),10,1,10-11-2023,Etats-Unis,Netflix
+Bosch: Legacy,09,2,10-11-2023,Etats-Unis,Amazon Freevee
+Bosch: Legacy,10,2,10-11-2023,Etats-Unis,Amazon Freevee
+Fellow Travelers,03,1,10-11-2023,Etats-Unis,Showtime
+For All Mankind,01,4,10-11-2023,Etats-Unis,Apple TV+
+Goosebumps (2023),09,1,10-11-2023,Etats-Unis,Disney+
+Invincible,02,2,10-11-2023,Etats-Unis,Prime Video
+Lessons In Chemistry,06,1,10-11-2023,Etats-Unis,Apple TV+
+NCIS: Sydney,01,1,10-11-2023,Etats-Unis,Paramount+
+Power Book IV: Force,10,2,10-11-2023,Etats-Unis,Starz
+Shining Vale,05,2,10-11-2023,Etats-Unis,Starz
+Solsidan,08,8,10-11-2023,Suède,TV4
+The Curse (2023),01,1,10-11-2023,Etats-Unis,Showtime on Demand
+The Good Ship Murder,05,1,10-11-2023,Royaume-Uni,Channel 5
+Transplant,06,4,10-11-2023,Canada,CTV
+Upload,07,3,10-11-2023,Etats-Unis,Prime Video
+Upload,08,3,10-11-2023,Etats-Unis,Prime Video
+Yellowstone,09,5,10-11-2023,Etats-Unis,Paramount Network
+All Rise,19,3,11-11-2023,Etats-Unis,OWN
+Beacon 23,01,1,12-11-2023,Etats-Unis,Epix
+Bob's Burgers,06,14,12-11-2023,Etats-Unis,Fox
+Entre Tierras,10,1,12-11-2023,Espagne,ATRESplayer
+Family Guy,05,22,12-11-2023,Etats-Unis,Fox
+Fear the Walking Dead,10,8,12-11-2023,Etats-Unis,AMC
+Heartland (CA),07,17,12-11-2023,Canada,CBC
+Krapopolis,08,1,12-11-2023,Etats-Unis,Fox
+Les Mystères de l'amour,14,33,12-11-2023,France,TMC
+Rick and Morty,05,7,12-11-2023,Etats-Unis,Adult Swim
+SkyMed,07,2,12-11-2023,Canada,CBC Gem
+The Gilded Age,03,2,12-11-2023,Etats-Unis,HBO
+The Simpsons,06,35,12-11-2023,Etats-Unis,Fox
+A Murder at the End of the World,01,1,14-11-2023,Etats-Unis,Hulu
+A Murder at the End of the World,02,1,14-11-2023,Etats-Unis,Hulu
+DNA do Crime,01,1,14-11-2023,Etats-Unis,Netflix
+Found,07,1,14-11-2023,Etats-Unis,NBC
+Suburræterna,01,1,14-11-2023,Etats-Unis,Netflix
+Black Cake,05,1,15-11-2023,Etats-Unis,Hulu
+Chucky,07,3,15-11-2023,Etats-Unis,Syfy
+Deutsches Haus,01,1,15-11-2023,Etats-Unis,Disney+
+Hotel Mondial,07,2,15-11-2023,Allemagne,ZDF
+Informacja zwrotna,01,1,15-11-2023,Etats-Unis,Netflix
+Inspirez expirez,08,1,15-11-2023,Canada,CraveTV
+Inspirez expirez,09,1,15-11-2023,Canada,CraveTV
+Inspirez expirez,10,1,15-11-2023,Canada,CraveTV
+Magnum P.I. (2018),16,5,15-11-2023,Etats-Unis,NBC
+Quantum Leap (2022),06,2,15-11-2023,Etats-Unis,NBC
+Robyn Hood,08,1,15-11-2023,Canada,Global
+Sahsiyet,01,2,15-11-2023,Turquie,Puhu TV
+Shetland,03,8,15-11-2023,Royaume-Uni,BBC One
+SurrealEstate,07,2,15-11-2023,Etats-Unis,Syfy
+The Buccaneers (2023),04,1,15-11-2023,Etats-Unis,Apple TV+
+The Lazarus Project,01,2,15-11-2023,Royaume-Uni,Sky1
+The Santa Clauses,03,2,15-11-2023,Etats-Unis,Disney+
+Tout va bien,01,1,15-11-2023,Etats-Unis,Disney+
+Tout va bien,02,1,15-11-2023,Etats-Unis,Disney+
+Tout va bien,03,1,15-11-2023,Etats-Unis,Disney+
+Tout va bien,04,1,15-11-2023,Etats-Unis,Disney+
+Tout va bien,05,1,15-11-2023,Etats-Unis,Disney+
+Tout va bien,06,1,15-11-2023,Etats-Unis,Disney+
+Tout va bien,07,1,15-11-2023,Etats-Unis,Disney+
+Tout va bien,08,1,15-11-2023,Etats-Unis,Disney+
+Young Dylan,11,4,15-11-2023,Etats-Unis,Nickelodeon
+Anderson Spider Silva,01,1,16-11-2023,Etats-Unis,Paramount+
+Anderson Spider Silva,02,1,16-11-2023,Etats-Unis,Paramount+
+Anderson Spider Silva,03,1,16-11-2023,Etats-Unis,Paramount+
+Anderson Spider Silva,04,1,16-11-2023,Etats-Unis,Paramount+
+À La Carte,10,2,16-11-2023,Etats-Unis,ALLBLK
+BlackBerry,02,1,16-11-2023,Canada,CBC
+Frasier (2023),07,1,16-11-2023,Etats-Unis,Paramount+
+Julia (2022),01,2,16-11-2023,Etats-Unis,HBO Max
+Julia (2022),02,2,16-11-2023,Etats-Unis,HBO Max
+Julia (2022),03,2,16-11-2023,Etats-Unis,HBO Max
+Kingdom Business,03,2,16-11-2023,Etats-Unis,BET+
+La Mesias,07,1,16-11-2023,Espagne,Moviestar+
+Le Voyageur,05,2,16-11-2023,France,France 3
+Master Crimes,03,1,16-11-2023,France,TF1
+Master Crimes,04,1,16-11-2023,France,TF1
+Rap Sh!t,03,2,16-11-2023,Etats-Unis,HBO Max
+Terror Lake Drive,01,3,16-11-2023,Etats-Unis,ALLBLK
+The Crown,01,6,16-11-2023,Etats-Unis,Netflix
+The Vanishing Triangle,05,1,16-11-2023,Etats-Unis,SundanceTV
+Un professore,01,2,16-11-2023,Italie,Rai 1
+Fellow Travelers,04,1,17-11-2023,Etats-Unis,Showtime
+For All Mankind,02,4,17-11-2023,Etats-Unis,Apple TV+
+Goosebumps (2023),10,1,17-11-2023,Etats-Unis,Disney+
+Heartbeats,01,2,17-11-2023,Suède,TV4
+Invincible,03,2,17-11-2023,Etats-Unis,Prime Video
+Lessons In Chemistry,07,1,17-11-2023,Etats-Unis,Apple TV+
+Monarch: Legacy of Monsters,01,1,17-11-2023,Etats-Unis,Apple TV+
+Monarch: Legacy of Monsters,02,1,17-11-2023,Etats-Unis,Apple TV+
+NCIS: Sydney,02,1,17-11-2023,Etats-Unis,Paramount+
+Ojitos de huevo,01,1,17-11-2023,Etats-Unis,Netflix
+Sagrada familia,01,2,17-11-2023,Etats-Unis,Netflix
+Shining Vale,06,2,17-11-2023,Etats-Unis,Starz
+Solsidan,09,8,17-11-2023,Suède,TV4
+Sort Of,01,3,17-11-2023,Canada,CBC Gem
+The Curse (2023),02,1,17-11-2023,Etats-Unis,Showtime on Demand
+The Good Ship Murder,06,1,17-11-2023,Royaume-Uni,Channel 5
+Transplant,07,4,17-11-2023,Canada,CTV
+All Rise,20,3,18-11-2023,Etats-Unis,OWN
+Beacon 23,02,1,19-11-2023,Etats-Unis,Epix
+Fear the Walking Dead,11,8,19-11-2023,Etats-Unis,AMC
+Fear the Walking Dead,12,8,19-11-2023,Etats-Unis,AMC
+Heartland (CA),08,17,19-11-2023,Canada,CBC
+Krapopolis,09,1,19-11-2023,Etats-Unis,Fox
+Les Mystères de l'amour,15,33,19-11-2023,France,TMC
+Rick and Morty,06,7,19-11-2023,Etats-Unis,Adult Swim
+The Gilded Age,04,2,19-11-2023,Etats-Unis,HBO
+A Murder at the End of the World,03,1,21-11-2023,Etats-Unis,Hulu
+Fargo,01,5,21-11-2023,Etats-Unis,FX
+Fargo,02,5,21-11-2023,Etats-Unis,FX
+Found,08,1,21-11-2023,Etats-Unis,NBC
+Black Cake,06,1,22-11-2023,Etats-Unis,Hulu
+Chucky,08,3,22-11-2023,Etats-Unis,Syfy
+Magnum P.I. (2018),17,5,22-11-2023,Etats-Unis,NBC
+Magnum P.I. (2018),18,5,22-11-2023,Etats-Unis,NBC
+SurrealEstate,08,2,22-11-2023,Etats-Unis,Syfy
+The Buccaneers (2023),05,1,22-11-2023,Etats-Unis,Apple TV+
+The Santa Clauses,04,2,22-11-2023,Etats-Unis,Disney+
+BlackBerry,03,1,23-11-2023,Canada,CBC
+Frasier (2023),08,1,23-11-2023,Etats-Unis,Paramount+
+Julia (2022),04,2,23-11-2023,Etats-Unis,HBO Max
+Kingdom Business,04,2,23-11-2023,Etats-Unis,BET+
+Master Crimes,05,1,23-11-2023,France,TF1
+Master Crimes,06,1,23-11-2023,France,TF1
+Rap Sh!t,04,2,23-11-2023,Etats-Unis,HBO Max
+The Vanishing Triangle,06,1,23-11-2023,Etats-Unis,SundanceTV
+En helt vanlig familj,01,1,24-11-2023,Etats-Unis,Netflix
+Fellow Travelers,05,1,24-11-2023,Etats-Unis,Showtime
+For All Mankind,03,4,24-11-2023,Etats-Unis,Apple TV+
+Invincible,04,2,24-11-2023,Etats-Unis,Prime Video
+Lessons In Chemistry,08,1,24-11-2023,Etats-Unis,Apple TV+
+Monarch: Legacy of Monsters,03,1,24-11-2023,Etats-Unis,Apple TV+
+My Demon,01,1,24-11-2023,Etats-Unis,Netflix
+NCIS: Sydney,03,1,24-11-2023,Etats-Unis,Paramount+
+Shining Vale,07,2,24-11-2023,Etats-Unis,Starz
+Solsidan,10,8,24-11-2023,Suède,TV4
+The Curse (2023),03,1,24-11-2023,Etats-Unis,Showtime on Demand
+The Good Ship Murder,07,1,24-11-2023,Royaume-Uni,Channel 5
+Transplant,08,4,24-11-2023,Canada,CTV
+Doctor Who (2005),XX,14,25-11-2023,Royaume-Uni,BBC One
+My Demon,02,1,25-11-2023,Etats-Unis,Netflix
+Beacon 23,03,1,26-11-2023,Etats-Unis,Epix
+Rick and Morty,07,7,26-11-2023,Etats-Unis,Adult Swim
+The Gilded Age,05,2,26-11-2023,Etats-Unis,HBO
+A Murder at the End of the World,04,1,28-11-2023,Etats-Unis,Hulu
+Fargo,03,5,28-11-2023,Etats-Unis,FX
+Found,09,1,28-11-2023,Etats-Unis,NBC
+Black Cake,07,1,29-11-2023,Etats-Unis,Hulu
+Magnum P.I. (2018),19,5,29-11-2023,Etats-Unis,NBC
+Quantum Leap (2022),09,2,29-11-2023,Etats-Unis,NBC
+SurrealEstate,09,2,29-11-2023,Etats-Unis,Syfy
+The Artful Dodger,01,1,29-11-2023,Etats-Unis,Disney+
+The Buccaneers (2023),06,1,29-11-2023,Etats-Unis,Apple TV+
+The Santa Clauses,05,2,29-11-2023,Etats-Unis,Disney+
+Family Law (CAN),01,3,30-11-2023,Canada,Global
+Family Law (CAN),02,3,30-11-2023,Canada,Global
+Family Law (CAN),03,3,30-11-2023,Canada,Global
+Family Law (CAN),04,3,30-11-2023,Canada,Global
+Family Law (CAN),05,3,30-11-2023,Canada,Global
+Family Law (CAN),06,3,30-11-2023,Canada,Global
+Family Law (CAN),07,3,30-11-2023,Canada,Global
+Family Law (CAN),08,3,30-11-2023,Canada,Global
+Family Law (CAN),09,3,30-11-2023,Canada,Global
+Family Law (CAN),10,3,30-11-2023,Canada,Global
+Frasier (2023),09,1,30-11-2023,Etats-Unis,Paramount+
+Julia (2022),05,2,30-11-2023,Etats-Unis,HBO Max
+Obliterated,01,1,30-11-2023,Etats-Unis,Netflix
+Obliterated,02,1,30-11-2023,Etats-Unis,Netflix
+Obliterated,03,1,30-11-2023,Etats-Unis,Netflix
+Obliterated,04,1,30-11-2023,Etats-Unis,Netflix
+Obliterated,05,1,30-11-2023,Etats-Unis,Netflix
+Obliterated,06,1,30-11-2023,Etats-Unis,Netflix
+Obliterated,07,1,30-11-2023,Etats-Unis,Netflix
+Obliterated,08,1,30-11-2023,Etats-Unis,Netflix
+Rap Sh!t,05,2,30-11-2023,Etats-Unis,HBO Max
+Virgin River,11,5,30-11-2023,Etats-Unis,Netflix
+Virgin River,12,5,30-11-2023,Etats-Unis,Netflix
+A Murder at the End of the World,01,1,14-11-2023,Etats-Unis,Hulu
+A Murder at the End of the World,02,1,14-11-2023,Etats-Unis,Hulu
+DNA do Crime,01,1,14-11-2023,Etats-Unis,Netflix
+Found,07,1,14-11-2023,Etats-Unis,NBC
+Suburræterna,01,1,14-11-2023,Etats-Unis,Netflix
+Black Cake,05,1,15-11-2023,Etats-Unis,Hulu
+Chucky,07,3,15-11-2023,Etats-Unis,Syfy
+Deutsches Haus,01,1,15-11-2023,Etats-Unis,Disney+
+Hotel Mondial,07,2,15-11-2023,Allemagne,ZDF
+Informacja zwrotna,01,1,15-11-2023,Etats-Unis,Netflix
+Inspirez expirez,08,1,15-11-2023,Canada,CraveTV
+Inspirez expirez,09,1,15-11-2023,Canada,CraveTV
+Inspirez expirez,10,1,15-11-2023,Canada,CraveTV
+Magnum P.I. (2018),16,5,15-11-2023,Etats-Unis,NBC
+Quantum Leap (2022),06,2,15-11-2023,Etats-Unis,NBC
+Robyn Hood,08,1,15-11-2023,Canada,Global
+Sahsiyet,01,2,15-11-2023,Turquie,Puhu TV
+Shetland,03,8,15-11-2023,Royaume-Uni,BBC One
+SurrealEstate,07,2,15-11-2023,Etats-Unis,Syfy
+The Buccaneers (2023),04,1,15-11-2023,Etats-Unis,Apple TV+
+The Lazarus Project,01,2,15-11-2023,Royaume-Uni,Sky1
+The Santa Clauses,03,2,15-11-2023,Etats-Unis,Disney+
+Tout va bien,01,1,15-11-2023,Etats-Unis,Disney+
+Tout va bien,02,1,15-11-2023,Etats-Unis,Disney+
+Tout va bien,03,1,15-11-2023,Etats-Unis,Disney+
+Tout va bien,04,1,15-11-2023,Etats-Unis,Disney+
+Tout va bien,05,1,15-11-2023,Etats-Unis,Disney+
+Tout va bien,06,1,15-11-2023,Etats-Unis,Disney+
+Tout va bien,07,1,15-11-2023,Etats-Unis,Disney+
+Tout va bien,08,1,15-11-2023,Etats-Unis,Disney+
+Young Dylan,11,4,15-11-2023,Etats-Unis,Nickelodeon
+Anderson Spider Silva,01,1,16-11-2023,Etats-Unis,Paramount+
+Anderson Spider Silva,02,1,16-11-2023,Etats-Unis,Paramount+
+Anderson Spider Silva,03,1,16-11-2023,Etats-Unis,Paramount+
+Anderson Spider Silva,04,1,16-11-2023,Etats-Unis,Paramount+
+À La Carte,10,2,16-11-2023,Etats-Unis,ALLBLK
+BlackBerry,02,1,16-11-2023,Canada,CBC
+Frasier (2023),07,1,16-11-2023,Etats-Unis,Paramount+
+Julia (2022),01,2,16-11-2023,Etats-Unis,HBO Max
+Julia (2022),02,2,16-11-2023,Etats-Unis,HBO Max
+Julia (2022),03,2,16-11-2023,Etats-Unis,HBO Max
+Kingdom Business,03,2,16-11-2023,Etats-Unis,BET+
+La Mesias,07,1,16-11-2023,Espagne,Moviestar+
+Le Voyageur,05,2,16-11-2023,France,France 3
+Master Crimes,03,1,16-11-2023,France,TF1
+Master Crimes,04,1,16-11-2023,France,TF1
+Rap Sh!t,03,2,16-11-2023,Etats-Unis,HBO Max
+Terror Lake Drive,01,3,16-11-2023,Etats-Unis,ALLBLK
+The Crown,01,6,16-11-2023,Etats-Unis,Netflix
+The Vanishing Triangle,05,1,16-11-2023,Etats-Unis,SundanceTV
+Un professore,01,2,16-11-2023,Italie,Rai 1
+Fellow Travelers,04,1,17-11-2023,Etats-Unis,Showtime
+For All Mankind,02,4,17-11-2023,Etats-Unis,Apple TV+
+Goosebumps (2023),10,1,17-11-2023,Etats-Unis,Disney+
+Heartbeats,01,2,17-11-2023,Suède,TV4
+Invincible,03,2,17-11-2023,Etats-Unis,Prime Video
+Lessons In Chemistry,07,1,17-11-2023,Etats-Unis,Apple TV+
+Monarch: Legacy of Monsters,01,1,17-11-2023,Etats-Unis,Apple TV+
+Monarch: Legacy of Monsters,02,1,17-11-2023,Etats-Unis,Apple TV+
+NCIS: Sydney,02,1,17-11-2023,Etats-Unis,Paramount+
+Ojitos de huevo,01,1,17-11-2023,Etats-Unis,Netflix
+Sagrada familia,01,2,17-11-2023,Etats-Unis,Netflix
+Shining Vale,06,2,17-11-2023,Etats-Unis,Starz
+Solsidan,09,8,17-11-2023,Suède,TV4
+Sort Of,01,3,17-11-2023,Canada,CBC Gem
+The Curse (2023),02,1,17-11-2023,Etats-Unis,Showtime on Demand
+The Good Ship Murder,06,1,17-11-2023,Royaume-Uni,Channel 5
+Transplant,07,4,17-11-2023,Canada,CTV
+All Rise,20,3,18-11-2023,Etats-Unis,OWN
+Beacon 23,02,1,19-11-2023,Etats-Unis,Epix
+Fear the Walking Dead,11,8,19-11-2023,Etats-Unis,AMC
+Fear the Walking Dead,12,8,19-11-2023,Etats-Unis,AMC
+Heartland (CA),08,17,19-11-2023,Canada,CBC
+Krapopolis,09,1,19-11-2023,Etats-Unis,Fox
+Les Mystères de l'amour,15,33,19-11-2023,France,TMC
+Rick and Morty,06,7,19-11-2023,Etats-Unis,Adult Swim
+The Gilded Age,04,2,19-11-2023,Etats-Unis,HBO
+A Murder at the End of the World,03,1,21-11-2023,Etats-Unis,Hulu
+Fargo,01,5,21-11-2023,Etats-Unis,FX
+Fargo,02,5,21-11-2023,Etats-Unis,FX
+Found,08,1,21-11-2023,Etats-Unis,NBC
+Black Cake,06,1,22-11-2023,Etats-Unis,Hulu
+Chucky,08,3,22-11-2023,Etats-Unis,Syfy
+Magnum P.I. (2018),17,5,22-11-2023,Etats-Unis,NBC
+Magnum P.I. (2018),18,5,22-11-2023,Etats-Unis,NBC
+SurrealEstate,08,2,22-11-2023,Etats-Unis,Syfy
+The Buccaneers (2023),05,1,22-11-2023,Etats-Unis,Apple TV+
+The Santa Clauses,04,2,22-11-2023,Etats-Unis,Disney+
+BlackBerry,03,1,23-11-2023,Canada,CBC
+Frasier (2023),08,1,23-11-2023,Etats-Unis,Paramount+
+Julia (2022),04,2,23-11-2023,Etats-Unis,HBO Max
+Kingdom Business,04,2,23-11-2023,Etats-Unis,BET+
+Master Crimes,05,1,23-11-2023,France,TF1
+Master Crimes,06,1,23-11-2023,France,TF1
+Rap Sh!t,04,2,23-11-2023,Etats-Unis,HBO Max
+The Vanishing Triangle,06,1,23-11-2023,Etats-Unis,SundanceTV
+En helt vanlig familj,01,1,24-11-2023,Etats-Unis,Netflix
+Fellow Travelers,05,1,24-11-2023,Etats-Unis,Showtime
+For All Mankind,03,4,24-11-2023,Etats-Unis,Apple TV+
+Invincible,04,2,24-11-2023,Etats-Unis,Prime Video
+Lessons In Chemistry,08,1,24-11-2023,Etats-Unis,Apple TV+
+Monarch: Legacy of Monsters,03,1,24-11-2023,Etats-Unis,Apple TV+
+My Demon,01,1,24-11-2023,Etats-Unis,Netflix
+NCIS: Sydney,03,1,24-11-2023,Etats-Unis,Paramount+
+Shining Vale,07,2,24-11-2023,Etats-Unis,Starz
+Solsidan,10,8,24-11-2023,Suède,TV4
+The Curse (2023),03,1,24-11-2023,Etats-Unis,Showtime on Demand
+The Good Ship Murder,07,1,24-11-2023,Royaume-Uni,Channel 5
+Transplant,08,4,24-11-2023,Canada,CTV
+Doctor Who (2005),XX,14,25-11-2023,Royaume-Uni,BBC One
+My Demon,02,1,25-11-2023,Etats-Unis,Netflix
+Beacon 23,03,1,26-11-2023,Etats-Unis,Epix
+Rick and Morty,07,7,26-11-2023,Etats-Unis,Adult Swim
+The Gilded Age,05,2,26-11-2023,Etats-Unis,HBO
+A Murder at the End of the World,04,1,28-11-2023,Etats-Unis,Hulu
+Fargo,03,5,28-11-2023,Etats-Unis,FX
+Found,09,1,28-11-2023,Etats-Unis,NBC
+Black Cake,07,1,29-11-2023,Etats-Unis,Hulu
+Magnum P.I. (2018),19,5,29-11-2023,Etats-Unis,NBC
+Quantum Leap (2022),09,2,29-11-2023,Etats-Unis,NBC
+SurrealEstate,09,2,29-11-2023,Etats-Unis,Syfy
+The Artful Dodger,01,1,29-11-2023,Etats-Unis,Disney+
+The Buccaneers (2023),06,1,29-11-2023,Etats-Unis,Apple TV+
+The Santa Clauses,05,2,29-11-2023,Etats-Unis,Disney+
+Family Law (CAN),01,3,30-11-2023,Canada,Global
+Family Law (CAN),02,3,30-11-2023,Canada,Global
+Family Law (CAN),03,3,30-11-2023,Canada,Global
+Family Law (CAN),04,3,30-11-2023,Canada,Global
+Family Law (CAN),05,3,30-11-2023,Canada,Global
+Family Law (CAN),06,3,30-11-2023,Canada,Global
+Family Law (CAN),07,3,30-11-2023,Canada,Global
+Family Law (CAN),08,3,30-11-2023,Canada,Global
+Family Law (CAN),09,3,30-11-2023,Canada,Global
+Family Law (CAN),10,3,30-11-2023,Canada,Global
+Frasier (2023),09,1,30-11-2023,Etats-Unis,Paramount+
+Julia (2022),05,2,30-11-2023,Etats-Unis,HBO Max
+Obliterated,01,1,30-11-2023,Etats-Unis,Netflix
+Obliterated,02,1,30-11-2023,Etats-Unis,Netflix
+Obliterated,03,1,30-11-2023,Etats-Unis,Netflix
+Obliterated,04,1,30-11-2023,Etats-Unis,Netflix
+Obliterated,05,1,30-11-2023,Etats-Unis,Netflix
+Obliterated,06,1,30-11-2023,Etats-Unis,Netflix
+Obliterated,07,1,30-11-2023,Etats-Unis,Netflix
+Obliterated,08,1,30-11-2023,Etats-Unis,Netflix
+Rap Sh!t,05,2,30-11-2023,Etats-Unis,HBO Max
+Virgin River,11,5,30-11-2023,Etats-Unis,Netflix
+Virgin River,12,5,30-11-2023,Etats-Unis,Netflix
+A Murder at the End of the World,03,1,21-11-2023,Etats-Unis,Hulu
+Fargo,01,5,21-11-2023,Etats-Unis,FX
+Fargo,02,5,21-11-2023,Etats-Unis,FX
+Found,08,1,21-11-2023,Etats-Unis,NBC
+Black Cake,06,1,22-11-2023,Etats-Unis,Hulu
+Chucky,08,3,22-11-2023,Etats-Unis,Syfy
+Magnum P.I. (2018),17,5,22-11-2023,Etats-Unis,NBC
+Magnum P.I. (2018),18,5,22-11-2023,Etats-Unis,NBC
+SurrealEstate,08,2,22-11-2023,Etats-Unis,Syfy
+The Buccaneers (2023),05,1,22-11-2023,Etats-Unis,Apple TV+
+The Santa Clauses,04,2,22-11-2023,Etats-Unis,Disney+
+BlackBerry,03,1,23-11-2023,Canada,CBC
+Frasier (2023),08,1,23-11-2023,Etats-Unis,Paramount+
+Julia (2022),04,2,23-11-2023,Etats-Unis,HBO Max
+Kingdom Business,04,2,23-11-2023,Etats-Unis,BET+
+Master Crimes,05,1,23-11-2023,France,TF1
+Master Crimes,06,1,23-11-2023,France,TF1
+Rap Sh!t,04,2,23-11-2023,Etats-Unis,HBO Max
+The Vanishing Triangle,06,1,23-11-2023,Etats-Unis,SundanceTV
+En helt vanlig familj,01,1,24-11-2023,Etats-Unis,Netflix
+Fellow Travelers,05,1,24-11-2023,Etats-Unis,Showtime
+For All Mankind,03,4,24-11-2023,Etats-Unis,Apple TV+
+Invincible,04,2,24-11-2023,Etats-Unis,Prime Video
+Lessons In Chemistry,08,1,24-11-2023,Etats-Unis,Apple TV+
+Monarch: Legacy of Monsters,03,1,24-11-2023,Etats-Unis,Apple TV+
+My Demon,01,1,24-11-2023,Etats-Unis,Netflix
+NCIS: Sydney,03,1,24-11-2023,Etats-Unis,Paramount+
+Shining Vale,07,2,24-11-2023,Etats-Unis,Starz
+Solsidan,10,8,24-11-2023,Suède,TV4
+The Curse (2023),03,1,24-11-2023,Etats-Unis,Showtime on Demand
+The Good Ship Murder,07,1,24-11-2023,Royaume-Uni,Channel 5
+Transplant,08,4,24-11-2023,Canada,CTV
+Doctor Who (2005),XX,14,25-11-2023,Royaume-Uni,BBC One
+My Demon,02,1,25-11-2023,Etats-Unis,Netflix
+Beacon 23,03,1,26-11-2023,Etats-Unis,Epix
+Rick and Morty,07,7,26-11-2023,Etats-Unis,Adult Swim
+The Gilded Age,05,2,26-11-2023,Etats-Unis,HBO
+A Murder at the End of the World,04,1,28-11-2023,Etats-Unis,Hulu
+Fargo,03,5,28-11-2023,Etats-Unis,FX
+Found,09,1,28-11-2023,Etats-Unis,NBC
+Black Cake,07,1,29-11-2023,Etats-Unis,Hulu
+Magnum P.I. (2018),19,5,29-11-2023,Etats-Unis,NBC
+Quantum Leap (2022),09,2,29-11-2023,Etats-Unis,NBC
+SurrealEstate,09,2,29-11-2023,Etats-Unis,Syfy
+The Artful Dodger,01,1,29-11-2023,Etats-Unis,Disney+
+The Buccaneers (2023),06,1,29-11-2023,Etats-Unis,Apple TV+
+The Santa Clauses,05,2,29-11-2023,Etats-Unis,Disney+
+Family Law (CAN),01,3,30-11-2023,Canada,Global
+Family Law (CAN),02,3,30-11-2023,Canada,Global
+Family Law (CAN),03,3,30-11-2023,Canada,Global
+Family Law (CAN),04,3,30-11-2023,Canada,Global
+Family Law (CAN),05,3,30-11-2023,Canada,Global
+Family Law (CAN),06,3,30-11-2023,Canada,Global
+Family Law (CAN),07,3,30-11-2023,Canada,Global
+Family Law (CAN),08,3,30-11-2023,Canada,Global
+Family Law (CAN),09,3,30-11-2023,Canada,Global
+Family Law (CAN),10,3,30-11-2023,Canada,Global
+Frasier (2023),09,1,30-11-2023,Etats-Unis,Paramount+
+Julia (2022),05,2,30-11-2023,Etats-Unis,HBO Max
+Obliterated,01,1,30-11-2023,Etats-Unis,Netflix
+Obliterated,02,1,30-11-2023,Etats-Unis,Netflix
+Obliterated,03,1,30-11-2023,Etats-Unis,Netflix
+Obliterated,04,1,30-11-2023,Etats-Unis,Netflix
+Obliterated,05,1,30-11-2023,Etats-Unis,Netflix
+Obliterated,06,1,30-11-2023,Etats-Unis,Netflix
+Obliterated,07,1,30-11-2023,Etats-Unis,Netflix
+Obliterated,08,1,30-11-2023,Etats-Unis,Netflix
+Rap Sh!t,05,2,30-11-2023,Etats-Unis,HBO Max
+Virgin River,11,5,30-11-2023,Etats-Unis,Netflix
+Virgin River,12,5,30-11-2023,Etats-Unis,Netflix
+A Murder at the End of the World,04,1,28-11-2023,Etats-Unis,Hulu
+Fargo,03,5,28-11-2023,Etats-Unis,FX
+Found,09,1,28-11-2023,Etats-Unis,NBC
+Black Cake,07,1,29-11-2023,Etats-Unis,Hulu
+Magnum P.I. (2018),19,5,29-11-2023,Etats-Unis,NBC
+Quantum Leap (2022),09,2,29-11-2023,Etats-Unis,NBC
+SurrealEstate,09,2,29-11-2023,Etats-Unis,Syfy
+The Artful Dodger,01,1,29-11-2023,Etats-Unis,Disney+
+The Buccaneers (2023),06,1,29-11-2023,Etats-Unis,Apple TV+
+The Santa Clauses,05,2,29-11-2023,Etats-Unis,Disney+
+Family Law (CAN),01,3,30-11-2023,Canada,Global
+Family Law (CAN),02,3,30-11-2023,Canada,Global
+Family Law (CAN),03,3,30-11-2023,Canada,Global
+Family Law (CAN),04,3,30-11-2023,Canada,Global
+Family Law (CAN),05,3,30-11-2023,Canada,Global
+Family Law (CAN),06,3,30-11-2023,Canada,Global
+Family Law (CAN),07,3,30-11-2023,Canada,Global
+Family Law (CAN),08,3,30-11-2023,Canada,Global
+Family Law (CAN),09,3,30-11-2023,Canada,Global
+Family Law (CAN),10,3,30-11-2023,Canada,Global
+Frasier (2023),09,1,30-11-2023,Etats-Unis,Paramount+
+Julia (2022),05,2,30-11-2023,Etats-Unis,HBO Max
+Obliterated,01,1,30-11-2023,Etats-Unis,Netflix
+Obliterated,02,1,30-11-2023,Etats-Unis,Netflix
+Obliterated,03,1,30-11-2023,Etats-Unis,Netflix
+Obliterated,04,1,30-11-2023,Etats-Unis,Netflix
+Obliterated,05,1,30-11-2023,Etats-Unis,Netflix
+Obliterated,06,1,30-11-2023,Etats-Unis,Netflix
+Obliterated,07,1,30-11-2023,Etats-Unis,Netflix
+Obliterated,08,1,30-11-2023,Etats-Unis,Netflix
+Rap Sh!t,05,2,30-11-2023,Etats-Unis,HBO Max
+Virgin River,11,5,30-11-2023,Etats-Unis,Netflix
+Virgin River,12,5,30-11-2023,Etats-Unis,Netflix
