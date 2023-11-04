@@ -2,7 +2,7 @@
 
 ## Réalisé par
 
-- P. Medhi
+- P. Mehdi
 - V. Mathieu
 - C. Vincenzo
 
@@ -23,9 +23,20 @@ Pour ma part, j'ai choisi de m'occuper de toute la partie SQL. Etant très à l'
 
 Concernant mon code, j'ai opté pour une approche simple, en me servant de choses basiques (ajout de data uniquement en utilisant sqlite3), et j'ai opté ensuite sur l'utilisation du module `pandas` pour le reste de mes fonctions.
 
-### Medhi
+### Mehdi
 
-TODO
+De mon côté, je me suis laissé tenté par le Scrapping. Ayant déjà pratiqué python dans mon entreprise notamment selenium pour de la configuration automatisé de produit, j'ai l'habitude de rechercher des balises pour intéragir avec elles. Récuperer des informations pratiques, les stockers non pas dans des csv mais dans des txt ou json pour une utilisaion ultérieure dans d'autres scripts python. 
+
+Mon code peut être résumé par : 
+- l'Initialisation de lists
+- Boucler dessus
+- Supprimer des éléments
+- Diviser des éléments
+- Ajouter des données
+- Ouvrir des fichiers
+- Sauvegarder des éléments
+- Réutilisé ces éléments
+  
 
 ### Mathieu
 
