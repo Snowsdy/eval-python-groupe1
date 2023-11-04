@@ -40,7 +40,7 @@ Mon code peut être résumé par :
 
 ### Mathieu
 
-TODO
+J'ai décidé de faire la partie "algorithmie" car j'ai bien aimé faire cette partie lors des tps et c'est aussi parce que je n'ai pas l'habitude d'avoir besoin d'autant de reflexion par rapport à l'entreprise. J'ai également fait beaucoup d'algorithmie lors de mes études et c'est ce qui m'a beaucoup aidé. J'ai également essayé de créer des fonctions qui peuvent être réutiliser pour certaines questions?
 
 ## Réponses aux questions
 
